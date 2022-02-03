@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NeoNetwork",
+        "repositoryURL": "https://github.com/ricardohtduarte/NeoNetwork",
+        "state": {
+          "branch": "master",
+          "revision": "d5dd82d2cbe545d792f9d9995f077dbd064fda30",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
